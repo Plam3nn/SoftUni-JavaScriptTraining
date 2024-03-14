@@ -5,8 +5,8 @@ function solve(steps, stepLength, speed){
     var timeInSeconds = Math.ceil(timeInMinutes * 60);
     
     var outputTime = new Date(null, null, null, null, null, timeInSeconds)
-        .toString()
-        .split(' ')[4];
+    .toString()
+    .split(' ')[4];
 
     console.log(outputTime);
 }

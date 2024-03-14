@@ -1,6 +1,6 @@
 function getDaysInAMonth(month, year){         
     let days = new Date(year, month, 0)
-        .getDate();
+    .getDate();
     
     console.log(days);
 }
