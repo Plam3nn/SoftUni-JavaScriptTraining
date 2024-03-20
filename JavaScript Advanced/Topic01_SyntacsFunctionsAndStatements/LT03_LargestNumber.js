@@ -1,4 +1,4 @@
-function printLargestNumberOfThree(firstNumber, secondNumber, thirdNumber){    
+function solve(firstNumber, secondNumber, thirdNumber){    
     // let largestNumber = firstNumber > secondNumber ? firstNumber : secondNumber;
     // largestNumber = largestNumber > thirdNumber ? largestNumber : thirdNumber;
 

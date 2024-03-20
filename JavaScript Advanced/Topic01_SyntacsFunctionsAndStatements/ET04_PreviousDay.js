@@ -1,4 +1,4 @@
-function getPreviousDay(year, month, day) {
+function solve(year, month, day) {
     let currentDate = new Date(year, month - 1, day);
 
     currentDate.setDate(currentDate.getDate() - 1);

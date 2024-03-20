@@ -1,4 +1,4 @@
-function getLengths(firstString, secondString, thirdString){
+function solve(firstString, secondString, thirdString){
     let sumLength = firstString.length + secondString.length + thirdString.length;
     let averageLength = Math.floor(sumLength / 3);
 

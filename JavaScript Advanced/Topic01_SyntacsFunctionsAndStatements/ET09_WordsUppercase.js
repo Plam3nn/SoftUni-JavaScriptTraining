@@ -1,4 +1,4 @@
-function wordsToUpperCase(input){
+function solve(input){
     // let result = input
     // .split(/[ ,.?!]/)
     // .filter(Boolean)

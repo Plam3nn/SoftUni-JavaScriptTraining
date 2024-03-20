@@ -1,4 +1,4 @@
-function draw(size){
+function solve(size){
     let square = '';
 
     for (let i = 0; i < size; i++){
