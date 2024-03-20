@@ -1,4 +1,4 @@
-function aggregate(array) {
+function solve(array) {
     printSum(array);
     printInversedSum(array);
     printConcatNumbers(array);
@@ -34,5 +34,5 @@ function printConcatNumbers(array){
     console.log(concatenatedNumbers);
 }
 
-aggregate([1, 2, 3]);
-aggregate([2, 4, 8, 16]);
+solve([1, 2, 3]);
+solve([2, 4, 8, 16]);
